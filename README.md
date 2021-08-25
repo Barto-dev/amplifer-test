@@ -87,7 +87,7 @@ https://codepen.io/Barto_i/pen/NWjqveQ
 Не реализовывал все возможные состояния так как это было бы долго:)
 
 <div>
-    <img align="center" src="https://raw.githubusercontent.com/Barto-dev/formurai/master/assets/logo.svg" alt="Logo" />
+    <img align="center" src="https://github.com/Barto-dev/amplifer-test/blob/master/assets/pic_1.png?raw=true" alt="Logo" />
 </div>
 
 ### Вопрос 5
@@ -99,5 +99,11 @@ https://codepen.io/Barto_i/pen/NWjqveQ
 это действительно нужно для уникальности и дизайна проекта то с помощью https://www.npmjs.com/package/glyphhanger извлёк бы подмножество нужных начертаний в формате woff2 другие не имеет 
 смысла использовать так как браузеры которые умеют в вариативные шрифт уже давно умеют в woff2. После этих оптимизаций он весил бы 50kb~. И начали бы внедрять.
 <div>
-    <img align="center" src="https://raw.githubusercontent.com/Barto-dev/formurai/master/assets/logo.svg" alt="Logo" />
+    <img align="center" src="https://github.com/Barto-dev/amplifer-test/blob/master/assets/pic_3.png?raw=true" alt="Logo" />
+</div>
+
+---
+А вот как влияет перекидывание лишних килобайтов по сети, в больших масштабах. Это с Chrome Dev Summit скрин:)
+<div>
+    <img align="center" src="https://github.com/Barto-dev/amplifer-test/blob/master/assets/pic_2.png?raw=true" alt="Logo" />
 </div>
